@@ -2,6 +2,10 @@
 
 A modern web app to analyze your resume for Applicant Tracking Systems (ATS) and help you optimize your chances of landing your dream job.
 
+[Live Demo](https://resume-ats-tracker.netlify.app/)
+
+![App Screenshot](src/assets/Resume%20tracker%20ss.png)
+
 ## Features
 
 - 3x3 grid of features including:
